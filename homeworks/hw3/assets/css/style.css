@@ -13,10 +13,10 @@ body, html {
 /* PROBLEM 3: Flesh our your follow button! 5 px for the
 top and bottom, 30 for the left and right*/
 #follow-button {
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 /* PROBLEM 4: Turn items into a square, 120x120 px image */
